@@ -3,7 +3,7 @@
 My name is *echo4eva* online but some call me *perilEcho*, *lenkek*, and *echo*! I'm a 4th year college student studying in Computer Science just making stuff out of impulse and for fun!
 
 **Just some stuff about me:**
-- I love kpop, mostly LOONA 🌙
+- I love kpop, mostly fainting for LOONA 🌙
 - I'm a "retired" FPS tryhard junky 🔫 getting into lifesims, living a peaceful life 🚜
 - I love Mabinogi ⚔️🛡️
 - Creativity is my life source, video editing, photography, music, fashion, and coding fits with it 🎵✏️
