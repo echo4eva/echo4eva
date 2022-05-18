@@ -6,7 +6,7 @@ My name is *echo4eva* online but some call me *perilEcho*, *lenkek*, and *echo*!
 - I love kpop, mostly fainting for LOONA 🌙
 - I'm a "retired" FPS tryhard junky 🔫 getting into lifesims, living a peaceful life 🚜
 - I love Mabinogi ⚔️🛡️
-- Creativity is my life source, video editing, photography, music, fashion, and coding fits with it 🎵✏️
+- Creativity and personalization is my life source, video editing, photography, music, fashion, and coding fits with it 🎵✏️
 
 *So you might see stuff related to that!*
 
