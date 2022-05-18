@@ -12,6 +12,6 @@ My name is *echo4eva* online but some call me *perilEcho*, *lenkek*, and *echo*!
 
 **Some of my goals**
 - Make my own basic website that will include info similar to a linktree
-- Create a python discord bot for my server
+- Create a python discord bot with unique features for my friends
 - Mod Stardew Valley with additions *(NPCS, Weapons, Mobs)* from Mabinogi and FGO
 - Explore API's of Twitter and Spotify to create personalized features with given data
