@@ -3,7 +3,7 @@
 My name is *echo4eva* online but some call me *perilEcho*, *lenkek*, and *echo*! I'm a 4th year college student studying in Computer Science just making stuff out of impulse, for fun, and to learn more!
 
 **Just some stuff about me:**
-- I love kpop, mostly fainting for LOONA 🌙
+- I love kpop, mostly fainting for LOONA 🌙 `while True: print("love") # love4eva!`
 - I'm a "retired" FPS tryhard junky 🔫 getting into lifesims, living a peaceful life 🚜
 - I love Mabinogi ⚔️🛡️
 - Creativity and personalization is my life source. Video editing, photography, music, fashion, and coding fits with it 🎵✏️
