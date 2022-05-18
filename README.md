@@ -4,7 +4,7 @@ My name is *echo4eva* online but some call me *perilEcho*, *lenkek*, and *echo*!
 
 **Just some stuff about me:**
 - I love kpop, mostly LOONA 🌙
-- I'm an FPS junky 🔫 getting into lifesims 🚜
+- I'm a "retired" FPS tryhard junky 🔫 getting into lifesims, living a peaceful life 🚜
 - I love Mabinogi ⚔️🛡️
 - Creativity is my life source, video editing, photography, music, fashion, and coding fits with it 🎵✏️
 
