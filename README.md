@@ -15,3 +15,7 @@ My name is *echo4eva* online but some call me *perilEcho*, *lenkek*, and *echo*!
 - Create a python discord bot with unique features for my friends
 - Mod Stardew Valley with additions *(NPCS, Weapons, Mobs)* from Mabinogi and the Fate series
 - Explore API's of Twitter and Spotify to create personalized features with given data
+- 
+<a href="https://twitter.com/echo4eva">
+    <img height="30" src="https://raw.githubusercontent.com/echo4eva/echo4eva/main/images/twitter.png"alt="@echo4eva">
+</a>
