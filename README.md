@@ -4,7 +4,7 @@ My name is *echo4eva* online but some call me *perilEcho*, *lenkek*, and *echo*!
 
 **Just some stuff about me:**
 - I love kpop, mostly fainting for LOONA 🌙 `while True: print("love") # love4eva!`
-- I'm a "retired" FPS tryhard junky 🔫 getting into lifesims, living a peaceful life 🚜
+- I'm a "retired" FPS tryhard junky 🔫 getting into lifesims, settling down and living a peaceful life 🚜
 - Mabinogi is my favorite MMORPG of all time ⚔️🛡️
 - Creativity and personalization is my life source. Video editing, photography, music, fashion, and coding fits with it 🎵✏️
 
