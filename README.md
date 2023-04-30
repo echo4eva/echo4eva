@@ -28,10 +28,3 @@ My name is *echo4eva* online but some call me *perilEcho*, *lenkek*, and *echo*!
 <a href="https://www.instagram.com/echo4eva/">
     <img height="30" src="https://raw.githubusercontent.com/echo4eva/echo4eva/main/images/instagram.png">
 </a>
-<a href="">
-    <span><strong>perilEcho#5480</strong></span>
-    <img height="30" src="https://raw.githubusercontent.com/echo4eva/echo4eva/main/images/discord.png"alt="@echo4eva">
-</a>
-<a href="https://steamcommunity.com/id/perilEcho">
-    <img height="30" src="https://raw.githubusercontent.com/echo4eva/echo4eva/main/images/steam.png"alt="@echo4eva">
-</a>
